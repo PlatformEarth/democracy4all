@@ -856,8 +856,20 @@ button:focus {
 	float: left;
 	width: 100%;
 }
+#mu-gallery {
+	background-color: #fff;
+	display: inline;
+	float: left;
+	width: 100%;
+}
 
 .mu-pricing-area {
+	display: inline;
+	float: left;
+	padding: 100px 0;
+	width: 100%;
+}
+.mu-gallery-area {
 	display: inline;
 	float: left;
 	padding: 100px 0;
@@ -870,7 +882,12 @@ button:focus {
 	margin-top: 50px;
 	width: 100%;
 }
-
+.mu-gallery-conten {
+	display: inline;
+	float: left;
+	margin-top: 0px;
+	width: 100%;
+}
 .mu-single-price {
 	background-color: #fff;
 	display: inline;
@@ -881,6 +898,17 @@ button:focus {
 	padding: 15px;
 	overflow: hidden;
 }
+.mu-single-gallery {
+	background-color: #fff;
+	display: inline;
+	float: left;
+	text-align: center;
+	position: relative;
+	width: 100%;
+	padding: 0px;
+	overflow: hidden;
+}
+
 
 .mu-single-price-head {
 	color: #555;
@@ -916,6 +944,14 @@ button:focus {
 	padding: 10px 0;
 	border: 7pt solid #e23333;
 	padding:20px;
+}
+
+.mu-single-gallery  {
+	color: #000;
+	font-size: 22px;
+	padding: 0;
+	border: 7pt solid #e23333;
+	padding:0px;
 }
 
 .mu-single-price .mu-green-title {
