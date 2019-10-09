@@ -872,7 +872,7 @@ button:focus {
 }
 
 .mu-single-price {
-	background-color: #f8f8f8;
+	background-color: #fff;
 	display: inline;
 	float: left;
 	text-align: center;
@@ -910,10 +910,30 @@ button:focus {
 	font-style: italic;
 }
 
-.mu-single-price .mu-price-title {
+.mu-single-price .mu-red-title {
 	color: #555;
 	font-size: 22px;
 	padding: 10px 0;
+}
+
+.mu-single-price .mu-green-title {
+	color: #555;
+	font-size: 22px;
+	padding: 10px 0;
+}
+
+.mu-single-price .mu-purple-title {
+	color: #555;
+	font-size: 22px;
+	padding: 10px 0;
+}
+
+.mu-single-price .mu-blue-title {
+	color: #555;
+	font-size: 22px;
+	padding: 10px 0;
+	border: 5pt solid #000;
+	padding:20px;
 }
 
 .mu-single-price ul {
