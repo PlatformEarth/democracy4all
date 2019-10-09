@@ -911,28 +911,34 @@ button:focus {
 }
 
 .mu-single-price .mu-red-title {
-	color: #555;
+	color: #000;
 	font-size: 22px;
 	padding: 10px 0;
+	border: 7pt solid #e23333;
+	padding:20px;
 }
 
 .mu-single-price .mu-green-title {
-	color: #555;
+	color: #000;
 	font-size: 22px;
 	padding: 10px 0;
+	border: 7pt solid #07fe84;
+	padding:20px;
 }
 
 .mu-single-price .mu-purple-title {
-	color: #555;
+	color: #000;
 	font-size: 22px;
 	padding: 10px 0;
+	border: 7pt solid #e000e0;
+	padding:20px;
 }
 
 .mu-single-price .mu-blue-title {
-	color: #555;
+	color: #000;
 	font-size: 22px;
 	padding: 10px 0;
-	border: 5pt solid #000;
+	border: 7pt solid #2b80fe;
 	padding:20px;
 }
 
