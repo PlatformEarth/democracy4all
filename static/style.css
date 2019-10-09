@@ -1,6 +1,6 @@
 
 /*
-Template Name: Eventoz
+Template Name: Democracy4All
 Author: MarkUps
 Author URI: http://www.markups.io/
 Version: 1.0
@@ -221,7 +221,7 @@ button:focus {
 /*--------------------*/
 
 #mu-hero {
-	background-image: url("assets/images/head-featured-bg.png");
+	background-color: #000;
 	display: inline;
 	float: left;
 	width: 100%;
