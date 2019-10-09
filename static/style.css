@@ -797,11 +797,10 @@ button:focus {
 	width: 100%;
 }
 
-#mu-blog-area {background-color: gris;
-
-
-
+#mu-blog-area {
+	background-color: #333;
 }
+
 .mu-venue-area {
 	display: inline;
 	float: left;
