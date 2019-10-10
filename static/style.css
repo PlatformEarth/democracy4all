@@ -1410,7 +1410,7 @@ button:focus {
 	line-height: 35px;
 	font-size: 15px;
 }
-
+.mu-social-media-white {margin-bottom: 10px;text-align: center;}
 .mu-footer-bottom {
 	display: inline;
 	float: left;
