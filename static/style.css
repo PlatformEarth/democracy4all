@@ -872,7 +872,7 @@ button:focus {
 .mu-gallery-area {
 	display: inline;
 	float: left;
-	padding:0;
+	padding-bottom: 10px;
 	width: 100%;
 }
 
